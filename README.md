@@ -76,4 +76,4 @@ Compressed version of my Master Thesis Codebase
 
 We provide a checkpoint for a VAE that compresses 512x512 depth images into 32x32 latents.
 
-![](https://github.com/DanielSiersleben/Structure-Condition-Sequence-Diffusion/viz/VAE_recon.png)
+![](https://github.com/DanielSiersleben/Structure-Condition-Sequence-Diffusion/blob/main/viz/VAE_recon.png)

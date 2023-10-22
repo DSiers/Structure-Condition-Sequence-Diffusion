@@ -71,9 +71,14 @@ Compressed version of my Master Thesis Codebase
 └───TC_env                                                  # Old repo to evaluate temporal consistency
 ```
 
-
 ## Autoencoder for Structure Conditions
 
 We provide a checkpoint for a VAE that compresses 512x512 depth images into 32x32 latents.
 
 ![](https://github.com/DanielSiersleben/Structure-Condition-Sequence-Diffusion/blob/main/viz/VAE_recon.png)
+
+## Structure Condition Sequence Diffusion
+
+| Generated Depth Sequence  | Generated Video with ControlVideo |
+| ------------- | ------------- |
+| ![](https://github.com/DanielSiersleben/Structure-Condition-Sequence-Diffusion/blob/main/viz/gifs/cond_0.gif)  | ![](https://github.com/DanielSiersleben/Structure-Condition-Sequence-Diffusion/blob/main/viz/gifs/video_0.gif)  |
